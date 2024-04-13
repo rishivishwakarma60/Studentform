@@ -16,13 +16,17 @@ do again  step 2 & 3
 
 
 4) git remote add origin "link"
-5) git push -u  origin  (main or master)   bdbf
+5) git push -u  origin  (main or master)   
+git remote remove origin
 
 
 
 https://github.com/prasad-bigdp/HTML4
+https://rishivishwakarma60.github.io/html/
 
 
+
+cmd code .
 
 
 

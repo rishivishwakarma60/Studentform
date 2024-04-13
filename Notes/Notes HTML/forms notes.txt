@@ -1,0 +1,2 @@
+HTML form elements use form tag
+every input in form tag use input tag and input tag is self closing tag 
