@@ -1,2 +1,12 @@
 HTML form elements use form tag
 every input in form tag use input tag and input tag is self closing tag 
+<!--value="rasad" // it will place default value 
+    placeholder="Enter the name" // it will display on place where to do
+    name="z" // name will be stored in z
+    type="email" // chppose what type u want
+      <form action="MAIN.JAVA" method="post">// if we use method post it will not store in url only store in backend to check just copy the url and paste in notepad
+          <form action="MAIN.JAVA" method=get"> // if we use get the detail will store in url
+-->
+
+
+<!-- students Registration form --- Assignment-->
